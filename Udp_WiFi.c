@@ -14,7 +14,7 @@
 #include "vmthread.h"
 
 #include "ResID.h"
-#include "UDP.h"
+#include "Udp_WFi.h"
 #include "vmsock.h"
 #include "vmbearer.h"
 #include "vmudp.h"
